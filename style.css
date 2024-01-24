@@ -1,0 +1,173 @@
+.abc {
+    color: white !important;
+}
+
+.navbar {
+    word-spacing: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    margin: auto;
+    background-color: black !important;
+    
+}
+
+body {
+    background-color: black !important;
+
+}
+.card-group{
+
+background-color: #000000 !important;
+
+}
+
+.navbar-brand {
+    margin-left: 10%;
+}
+
+.btn {
+    border-radius: 12px;
+    padding: 10px;
+}
+
+
+
+.main_custom_heading-second h2 {
+
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+    font-size: xx-large;
+    align-items: center !important
+}
+
+.main_custom_heading-second p {
+
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    margin-bottom: 70px;
+    margin-left: 25%;
+    
+}
+
+
+
+
+.logo-text-hold {
+
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 38px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+
+.nav-item{
+
+word-spacing: 20px;
+justify-content: end !important;
+justify-content: center !important
+
+
+
+}
+
+.card-body{
+
+
+padding top: 50%;
+
+}
+.main_custom_heading-second-hhh {
+
+
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+    font-size: xx-large;
+    align-items: center !important
+    
+
+}
+.container{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 20;
+    color: white;
+margin-top: 10%;
+
+}
+.cantainer{
+
+margin-left: 50%;
+float: left;
+align-items: flex-end; 
+
+
+}
+
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+   }
+   
+.containerabc{
+margin-left: 5%;
+display: block ;
+
+}
+.hhhh{
+
+float: right;
+margin-right: 10%;
+
+
+}
+
+.card{
+
+background-color: #000000;
+justify-content: space-around;
+
+}
+.cantainer-jjj{
+
+
+margin-bottom: 10%;
+
+}
+.main-position-hold {
+    justify-content: center;
+}
+.location-card-box-h {
+    height: 230px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    text-align: center;
+    padding: 25px 24px;
+    margin: auto;
+    margin-bottom: 32px;
+}
+.location-card-box-h {
+    width: auto !important;
+    height: 275px !important;
+    padding: 25px 15px !important;
+}
